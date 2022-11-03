@@ -1,0 +1,22 @@
+
+프로젝트에서 사용한 외부 라이브러리는 5가지.
+
+1. 로터리앤코더 라이브러리
+    https://github.com/igorantolic/ai-esp32-rotary-encoder/
+    온도설정값 변경 및 저장시 활용
+
+2. DHT 온습도센서
+   https://github.com/adafruit/DHT-sensor-library
+   DHT온습도 센서의 판독에 활용
+
+3. I2C LCD
+   https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+   LCD화면에 각기능 출력을 할때 사용
+
+4. ESP32 SERVO
+   https://github.com/jkb-git/ESP32Servo
+   아날로그 출력, 부져출력, 모터 제어시 활용
+
+5. Simple Timer
+   https://github.com/schinken/SimpleTimer
+   각종 타이머 시작 정지 반복등의 제어에 활용
